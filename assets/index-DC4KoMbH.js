@@ -9003,7 +9003,7 @@ const Ld = ({ name: e, img: n }) =>
         ],
       }),
     }),
-  Td = "./assets/Bella-Dx-BYUYH.jpg";
+  Td = "https://i.ibb.co/V3mW9W1/Bella.jpg";
 function Rd() {
   return Ie.jsx(Ie.Fragment, {
     children: Ie.jsx(Ld, { img: Td, name: "Bella" }),
